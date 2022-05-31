@@ -1,4 +1,4 @@
-#!/usr/bin/env perl -w
+#!/usr/bin/env perl
 #
 # create_directory.pl is a script to create a directory.xml from a CSV
 #
